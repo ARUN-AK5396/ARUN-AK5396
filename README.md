@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I think I am an Introvert.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"  style="padding:25px" >
 <a href="https://codepen.io/arun-ak5396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arun-ak5396" height="30" width="40" /></a>
 <a href="https://twitter.com/arunak_5131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunak_5131" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arun-ak-2218a9244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-ak-2218a9244" height="30" width="40" /></a>
