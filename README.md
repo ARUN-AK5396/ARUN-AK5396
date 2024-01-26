@@ -1,10 +1,23 @@
+
+<style>
+    .profile{
+        height: 400px;
+        width:400px;
+        border-radius: 28px;
+        margin-left:35%;
+    }
+    a{
+        padding: 25px;
+    }
+</style>
 <h1 align="center">Hi there👋, Myself ARUN AK</h1>
 <h3 align="center">I am an Fullstack and Mobile Application developer.</h3>
 
-<!-- <img align="right" alt="image_dev" src=""> -->
+<img class='profile' align="center" alt="image_dev" src="https://res.cloudinary.com/dwl7rck4o/image/upload/v1706260551/GITHUB_PROFILE_ocamcc.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ak5396&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ak5396" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-ak5396" alt="arun-ak5396" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=arun-ak5396" alt="arun-ak5396" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/arunak_5131" target="blank"><img src="https://img.shields.io/twitter/follow/arunak_5131?logo=twitter&style=for-the-badge" alt="arunak_5131" /></a> </p>
 
@@ -12,9 +25,7 @@
 
 - 🌱 I’m currently learning **Advance Java**
 
-- 👯 I’m looking to collaborate on [InstaRental](it was under production)
-
-- 👨‍💻 All of my projects are available at [https://akindustries-master-arun.netlify.app/](https://akindustries-master-arun.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://akindustries-master-arun.netlify.app/](https://akindustries-master-arun.netlify.app/)
 
 - 📝 I regularly write articles on [https://post-memories-mern.netlify.app/](https://post-memories-mern.netlify.app/)
 
