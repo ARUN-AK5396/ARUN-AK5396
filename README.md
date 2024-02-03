@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there👋, Myself ARUN AK</h1>
 <h3 align="center">I am an Fullstack and Mobile Application developer.</h3>
 
