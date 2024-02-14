@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, Myself ARUN AK</h1>
-<h3 align="center">I am an Fullstack and Mobile Application developer.</h3>
+<h3 align="center">I am an Fullstack Web application and Mobile Application developer.</h3>
 
 <img class='profile' align="center" style="height:400px,width:400px" alt="image_dev" src="https://res.cloudinary.com/dwl7rck4o/image/upload/v1706260551/GITHUB_PROFILE_ocamcc.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ak5396&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ak5396" /> </p>
