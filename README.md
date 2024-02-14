@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **4W Technologies Pvt.ltd**
 
-- 🌱 I’m currently learning **Advance Java**
+- 🌱 I’m currently learning **Advance DSA problem solving skill**
 
 - 👨‍💻 Some of my projects are available at [https://akindustries-master-arun.netlify.app/](https://akindustries-master-arun.netlify.app/)
 
