@@ -2,10 +2,10 @@
 <h3 align="center">I am an Fullstack Web application and Mobile Application developer.</h3>
 
 <img class='profile' align="center" style="height:400px,width:400px" alt="image_dev" src="https://res.cloudinary.com/dwl7rck4o/image/upload/v1706260551/GITHUB_PROFILE_ocamcc.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ak5396&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ak5396" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=arun-ak5396" alt="arun-ak5396" /></a> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ak5396&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ak5396" /> </p
+                                                                                                                                                 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=arun-ak5396" alt="arun-ak5396" /></a> </p> 
 
 <p align="left" style="padding:25px" > <a href="https://twitter.com/arunak_5131" target="blank"><img src="https://img.shields.io/twitter/follow/arunak_5131?logo=twitter&style=for-the-badge" alt="arunak_5131" /></a> </p>
 
