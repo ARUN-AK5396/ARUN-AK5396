@@ -9,7 +9,7 @@
 
 <p align="left" style="padding:25px" > <a href="https://twitter.com/arunak_5131" target="blank"><img src="https://img.shields.io/twitter/follow/arunak_5131?logo=twitter&style=for-the-badge" alt="arunak_5131" /></a> </p>
 
-- 🔭 I’m currently working on **4W Technologies Pvt.ltd**
+- 🔭 I’m currently working on **HOLOWARE**
 
 - 🌱 I’m currently learning **Advance DSA problem solving skill**
 
